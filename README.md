@@ -1,4 +1,4 @@
-# Calculadora em OOP
+# Calculadora em OOP - Java
 Calculadora com operações de dois números desenvolvida no curso de Dev TI.
 
 ### Sistema
